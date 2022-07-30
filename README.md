@@ -1,2 +1,2 @@
 # Tech-Phanthom
-Job Ready Hackthon
+Job Ready Hackthon 2022
